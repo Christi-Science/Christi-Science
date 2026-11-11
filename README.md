@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Christiana! 👋
 
-<!--
-**Christi-Science/Christi-Science** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Information Systems Professional & Data Operations Specialist
+Analytical, structured, and detail-oriented tech professional with a strong foundation in database management, workflow automation, and technical support documentation. 
 
-Here are some ideas to get you started:
+- 🎓 **Education:** Core University Coursework in Computer Information Systems | Widener University
+- 📜 **Certification:** Certified Mendix Developer
+- 💻 **Technical Core:** Database Navigation, Alphanumeric Data Entry, Advanced Excel Spreadsheet Auditing, Helpdesk Ticketing Systems (Zendesk/Intercom Logic), Markdown, low-code rapid app development.
+- ⚡ **Focus Area:** High-integrity, phone-free remote data entry, claims processing, and digital administrative workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with Me:
+- 💼(https://www.linkedin.com/in/christiana-kamara-76805881?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+
+!--
+
